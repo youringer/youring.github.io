@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "瑜凌的博客",
 
 	// 站点 URL
-	site_url: "https://youring.github.io",
+	site_url: "https://youringer.github.io",
 
 	// 站点描述
 	description:
