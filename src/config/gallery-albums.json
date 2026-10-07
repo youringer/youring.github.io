@@ -1,1 +1,9 @@
-[]
+[
+	{
+		"id": "media-library",
+		"name": "媒体库",
+		"description": "由后台媒体库自动同步",
+		"date": "2026-10-07",
+		"tags": []
+	}
+]
