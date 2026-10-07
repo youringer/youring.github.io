@@ -1,7 +1,9 @@
 ---
 title: 博客后台已上线：从 TipTap 直接发文章
 description: 验证整条链路：后台富文本编辑 → 转 Markdown + Firefly front-matter → 推送 GitHub → Netlify 自动重建。
+image: "https://admin.carlos.cc.cd/images/ae18e28c-9d0a-48f1-b401-48582bbbbd53.png"
 tags: []
+category: 随笔
 published: 2026-10-07
 pinned: false
 draft: false
