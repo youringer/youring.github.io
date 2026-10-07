@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "瑜凌的博客",
 
 	// 站点 URL
-	site_url: "https://youring.netlify.app",
+	site_url: "https://carlos.cc.cd",
 
 	// 站点描述
 	description: "瑜凌-YouRing 的个人博客。",
